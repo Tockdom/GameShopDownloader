@@ -6,4 +6,5 @@ It downloads around 5 TB of data and has zero security checks for drive space or
 A good overview about the IDs can be found here:
 
 Nintendo Wii: https://wiibrew.org/wiki/Title_database
+
 Nintendo Wii U: https://wiiubrew.org/wiki/Title_database
