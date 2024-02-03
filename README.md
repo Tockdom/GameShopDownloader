@@ -8,3 +8,7 @@ A good overview about the IDs can be found here:
 Nintendo Wii: https://wiibrew.org/wiki/Title_database
 
 Nintendo Wii U: https://wiiubrew.org/wiki/Title_database
+
+# Requirement:
+
+wget.exe in the same directory as the hex files and the downloader.
